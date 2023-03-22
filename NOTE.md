@@ -1,0 +1,1 @@
+1. If you want to use "Switch" in App.js, please using “npm install react-router-dom@5.3.4” then it will work. If you want to use "Routes" in App.js, please using “npm install react-router-dom@6.9.0” or latest version then it will work. You can check the version by "npm list react-router-dom"
